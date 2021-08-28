@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My Name is Chathuranga KGS.
+⚡I am UG Student at SLIIT⚡  
+
+IT Number   : IT20016852  
+GitUsername : PhenoZiggy
 
 <!--
 **PhenoZiggy/PhenoZiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
