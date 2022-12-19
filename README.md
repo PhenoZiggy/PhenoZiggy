@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameera Chathuranga</h1>
 <h3 align="center">A passionate frontend developer and Student of SLIIT</h3>
 
-[![Spotify](https://spotify-g7tthjzky-phenoziggy.vercel.app)](https://open.spotify.com/user/jr0k6ssquxv9r318e2dgkoe4b)
+[![Spotify](https://spotify-g7tthjzky-phenoziggy.vercel.app)(https://open.spotify.com/user/jr0k6ssquxv9r318e2dgkoe4b)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phenoziggy&label=Profile%20views&color=0e75b6&style=flat" alt="phenoziggy" /> </p>
 
