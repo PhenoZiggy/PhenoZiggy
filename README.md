@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameera Chathuranga</h1>
-<h3 align="center">A passionate frontend developer and Student of SLIIT</h3>
+<h3 align="center">A passionate full stack developer and Graduate of SLIIT</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jr0k6ssquxv9r318e2dgkoe4b&cover_image=true&theme=default&show_offline=false&background_color=592222)](https://github.com/PhenoZiggy/spotify)
 
